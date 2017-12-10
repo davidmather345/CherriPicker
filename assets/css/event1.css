@@ -1,0 +1,84 @@
+.navbar-custom {
+   padding-top: 7px;
+   padding-bottom: 7px;
+   background:white;
+}
+ 
+.navbar-custom a{
+   color: #e74c3c !important;
+   
+}
+
+.navbar-custom a:hover{
+   color: black !important;
+   
+}
+ 
+ 
+#map {
+  height: 300px;
+  border: 1px solid #000;
+}
+      
+  #map1{
+  height: 300px;
+  border: 1px solid #000;
+}
+ #map2{
+  height: 300px;
+  border: 1px solid #000;
+}
+
+
+
+
+
+    
+
+
+body{
+  font-family: 'ralewayregular';
+  padding-top: 70px;
+  padding-bottom: 20px;
+  background:#f4f5f9;;
+
+}
+
+
+.form-group{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+.btn {
+  border: 0;
+  outline: none;
+  border-radius: 0;
+  padding: 15px;
+  padding-left:10px;
+  font-size: 1.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  background: #e74c3c;
+  color:white;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  -webkit-appearance: none;
+}
+
+
+
+
+.box{
+        color: black;
+        padding: 20px;
+        display: none;
+        margin-top: 20px;
+        
+    }
+    
+    
+    
